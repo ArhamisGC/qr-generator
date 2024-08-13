@@ -18,7 +18,7 @@ Ensure you have Python installed on your machine. You can download it from [pyth
 ### Installation
 Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/ArhamisGC/qr-generator
 ```
 
 Navigate to the project directory:
@@ -32,10 +32,7 @@ pip install qrcode[pil]
 ```
 
 ### Usage
-Run the Python script:
-```
-python qr-generator.py
-```
+Run the Python script
 
 Input the URL you want to convert into a QR code when prompted.
 
